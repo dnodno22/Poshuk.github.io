@@ -1,0 +1,12 @@
+{
+  "name": "Пошук",
+  "short_name": "Пошук",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+  ]
+}
